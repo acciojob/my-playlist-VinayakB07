@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.player_one a{
+	display:block;
+	text-decoration:none;
+	color:black;
+}
+.player_two{
+	display:flex;
+	flex-direction:column;
+	width:300px;
+	background-color:white;
+	padding:10px;
+	gap:10px;
+	margin-left:250px;
+}
+h1,h2{
+	text-align:center;
+}
+.player_one{
+	border:2px solid black;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:20px;
+	background-color:white;
+	
+	
+}
+body{
+	background-color:#cccccc;
+	
+}
