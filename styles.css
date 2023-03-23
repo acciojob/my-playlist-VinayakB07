@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+li{
+	list-style-type:none;
+}
 .player_one a{
 	display:block;
 	text-decoration:none;
